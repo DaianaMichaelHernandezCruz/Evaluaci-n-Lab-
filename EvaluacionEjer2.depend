@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1711079626 source:d:\evaluacion lab programacion\evaluacionejer2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Cuenta.h"
+
+1710643806 source:d:\evaluacion lab programacion\evaluacionejer2\src\abono.cpp
+	"Abono.h"
+
+1710643520 d:\evaluacion lab programacion\evaluacionejer2\include\abono.h
+	<iostream>
+	"Fecha.h"
+
+1710643850 source:d:\evaluacion lab programacion\evaluacionejer2\src\cliente.cpp
+	"Cliente.h"
+
+1710642662 d:\evaluacion lab programacion\evaluacionejer2\include\cliente.h
+	<iostream>
+	<string.h>
+
+1711076872 source:d:\evaluacion lab programacion\evaluacionejer2\src\cuenta.cpp
+	"Cuenta.h"
+	"Cliente.h"
+	"Abono.h"
+
+1711076704 d:\evaluacion lab programacion\evaluacionejer2\include\cuenta.h
+	"Cliente.h"
+	"Abono.h"
+
+1710643830 source:d:\evaluacion lab programacion\evaluacionejer2\src\fecha.cpp
+	"Fecha.h"
+
+1710642266 d:\evaluacion lab programacion\evaluacionejer2\include\fecha.h
+	<iostream>
+
